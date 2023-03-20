@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 
-.custom-btn{
+.button{
     color: #fff;
     background: orangered;
     outline: none;
@@ -13,7 +13,7 @@
     transition: 1s;
 }
 
-.custom-btn:hover{
+.button:hover{
     color: orangered;
     background: #fff;
 }
